@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: 
 title: Edge Case
 ---
 
@@ -9,7 +9,7 @@ specify it with the `category` attribute in the front matter.
 
 ```md
 ---
-layout: category
+layout: 
 title: My Category
 ---
 ```
@@ -18,7 +18,7 @@ Or ...
 
 ```md
 ---
-layout: category
+layout: 
 title: Fancy Title
 category: My Category
 ---
